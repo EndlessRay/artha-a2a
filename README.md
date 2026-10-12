@@ -1,3 +1,5 @@
+> **Moved.** This repository now lives in [github.com/EndlessRay/asha-benchmarks](https://github.com/EndlessRay/asha-benchmarks/tree/main/a2a/artha) under a2a/artha/, with its full commit history. This copy is archived read-only so published links keep working.
+
 # Artha — Financial Intelligence by DNAi Systems
 
 **AI financial analysis agent via the [A2A protocol](https://a2aproject.github.io/A2A/).** SEC filings, company fundamentals, economic indicators, market data. Named after the Sanskrit concept of wealth and purpose — one of the four aims of human life.
